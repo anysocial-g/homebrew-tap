@@ -1,6 +1,6 @@
 cask "battery-autopilot" do
-  version "1.5.0"
-  sha256 "b9d1ceed1c164d6bb1ed94b31ac2fee6c7c30be72e5a0f920b8abec6130650cc"
+  version "1.5.2"
+  sha256 "5fc7066c98835baa17b11a3fad597847502d2e6a763c38e70d7daa7efce4aeef"
 
   url "https://macbattery.net/updates/BatteryAutopilot-#{version}.dmg"
   name "Battery Autopilot"
